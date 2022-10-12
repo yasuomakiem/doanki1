@@ -1,0 +1,720 @@
+{
+  "all": [
+    {
+      "name": "Gà rán (6 miếng)",
+      "price": 195000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/6a5f3dc03fe7c56ae754b451d4272987.png",
+      "id": 1
+    },
+    {
+      "name": "Đùi gà quay (1 miếng)",
+      "price": 67000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/7393e266725f18b28d3e445b0a8d96dd.png",
+      "id": 2
+    },
+    {
+      "name": "Phi-lê Gà Quay (1 Miếng)",
+      "price": 35000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/a5bfa35e5ad2d7d03611ea4443fbb3dc.png",
+      "id": 3
+    },
+    {
+      "name": "Gà rán (1 miếng)",
+      "price": 35000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/8fcc7be4dfd15601269b48f3e88bd38d.png",
+      "id": 4
+    },
+    {
+      "name": "Gà rán (2 miếng)",
+      "price": 68000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/7ee124ba814245247b501488fbc15cb9.png",
+      "id": 5
+    },
+    {
+      "name": "Gà rán (3 miếng)",
+      "price": 101000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/26a853b4918a1684135e039a09ebb9b1.png",
+      "id": 6
+    },
+    {
+      "name": "Cơm Gà Rán (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/2641433b2447b4a1fd90b6ad21032031.png",
+      "id": 7
+    },
+    {
+      "name": "Cơm Gà Bít-tết (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/7762ab6ba9186db06ec6bb47c6c20052.png",
+      "id": 8
+    },
+    {
+      "name": "Gà Bít-tết với Khoai tây chiên (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/f831caebaa58be1d7bcea004fa20c8b3.png",
+      "id": 9
+    },
+    {
+      "name": "Cơm Phi Lê Gà Quay (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/cf8890711782f50221f6ca9b8bda3a38.png",
+      "id": 10
+    },
+    {
+      "name": "Cơm Phi Lê Gà Giòn (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/8c3e2aa3b9bba4ae3ad86c8c93cf61c6.png",
+      "id": 11
+    },
+    {
+      "name": "Cơm Gà Xiên Que (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/97d99424cd2e469c70a05246c238ce9b.png",
+      "id": 12
+    },
+    {
+      "name": "Burger Tôm (1 Phần)",
+      "price": 41000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/15046b9494d26e45510aa6fd088daec4.png",
+      "id": 13
+    },
+    {
+      "name": "Burger Gà Quay Flava (1 Phần)",
+      "price": 47000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/b9337c5592bdfdca82c7c5474bd27dac.png",
+      "id": 14
+    },
+    {
+      "name": "Burger Zinger (1 Phần)",
+      "price": 50000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/ec51b936369619cbbe77b8b4a7f4604e.png",
+      "id": 15
+    },
+    {
+      "name": "Mì Ý Xốt Cà Gà Viên (1 Phần)",
+      "price": 37000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/31fb71d2d122fd318c4a0d02557e52da.png",
+      "id": 16
+    },
+    {
+      "name": "Mì Ý Xốt Cà Gà Zinger (1 Phần)",
+      "price": 53000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/743f129040d0cb4e2e8299bcd05b5236.png",
+      "id": 17
+    },
+    {
+      "name": "Hot Wings (3 Miếng)",
+      "price": 48000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/0fdbe56889d022973313a0ca3fa3bc53.png",
+      "id": 18
+    },
+    {
+      "name": "Hot Wings (5 Miếng)",
+      "price": 75000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/b383b84db23857de70ac5ee6199208ec.png",
+      "id": 19
+    },
+    {
+      "name": "Gà Popcorn (Vừa) (1 phần)",
+      "price": 36000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/2cbfd57c69e2ef38c0d32448e6c20c19.png",
+      "id": 20
+    },
+    {
+      "name": "Gà Popcorn (Lớn) (1 Phần)",
+      "price": 58000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/94a586581e0434ff7505aefd60526b70.png",
+      "id": 21
+    },
+    {
+      "name": "Phô mai viên (4 viên)",
+      "price": 30000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/e461936e9a87ca5d92486c3aa259b1f7.png",
+      "id": 22
+    },
+    {
+      "name": "Phô mai viên (6 viên)",
+      "price": 41000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/5dc365e1257ab1b1ed738c764157682c.png",
+      "id": 23
+    },
+    {
+      "name": "Cá Thanh (3 Thanh)",
+      "price": 40000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/d23294c03bce1d77665c02c50dc329f9.png",
+      "id": 24
+    },
+    {
+      "name": "Gà Xiên Que (2 Thanh)",
+      "price": 33000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/d23294c03bce1d77665c02c50dc329f9.png",
+      "id": 25
+    },
+    {
+      "name": "Khoai Tây Chiên (Vừa)",
+      "price": 17000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/f6730bdfe9fc2982cc7494115e71599d.png",
+      "id": 26
+    },
+    {
+      "name": "Khoai Tây Chiên (Lớn)",
+      "price": 28000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/4591699dcd6ad908cf4c6d0432cf58dc.png",
+      "id": 27
+    },
+    {
+      "name": "Khoai Tây Chiên (Đại)",
+      "price": 38000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/4591699dcd6ad908cf4c6d0432cf58dc.png",
+      "id": 28
+    },
+    {
+      "name": "Bắp cải trộn (Vừa)",
+      "price": 12000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/e6fbda15cb9ce40e8f861a36cbad1033.png",
+      "id": 29
+    },
+    {
+      "name": "Bắp cải trộn (Lớn)",
+      "price": 22000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/806b4b81f36703271229fa3c316d35e6.png",
+      "id": 30
+    },
+    {
+      "name": "Bắp Cải Trộn (Đại)",
+      "price": 31000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/d1c42a1566fe270eda9c2dda4764f7db.png",
+      "id": 31
+    },
+    {
+      "name": "Cơm trắng",
+      "price": 10000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/be88d03a8d38c4d420e08877256ee0be.jpg",
+      "id": 32
+    },
+    {
+      "name": "Súp rong biển (1 phần)",
+      "price": 14000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/6f0c074738973430bbf70a4f84ed09f7.jpg",
+      "id": 33
+    },
+    {
+      "name": "Xiên Gà Tenderods (2 Xiên)",
+      "price": 36000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/15c92d0b601f0693a665c25790406c63.png",
+      "id": 34
+    },
+    {
+      "name": "Pepsi Vị Chanh Không Calo Lon",
+      "price": 17000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/591ed4e8145a94286e5838a5b6134ab1.png",
+      "id": 35
+    },
+    {
+      "name": "Pepsi Lon",
+      "price": 17000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/12b7f62d75cf6631e5766bedb7c972f2.png",
+      "id": 36
+    },
+    {
+      "name": "7Up Lon",
+      "price": 17000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/2fb03a79074878515b937ef28ba03003.png",
+      "id": 37
+    },
+    {
+      "name": "Hộp Milo",
+      "price": 20000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/20c2e225b7ee2bedad4a8e21f57c1e19.png",
+      "id": 38
+    },
+    {
+      "name": "Aquafina",
+      "price": 15000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/05c112bd36b87a879c1800fa9290d489.png",
+      "id": 39
+    },
+    {
+      "name": "Trà đào",
+      "price": 24000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/c9a526c8d0049b6743ea5fa3fc02ceb0.png",
+      "id": 40
+    },
+    {
+      "name": "Mirinda Cam Lon",
+      "price": 17000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/61070a36604ea4e6f38846921f03e192.png",
+      "id": 41
+    }
+  ],
+  "garan": [
+    {
+      "name": "Gà rán (6 miếng)",
+      "price": 195000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/6a5f3dc03fe7c56ae754b451d4272987.png",
+      "id": 1
+    },
+    {
+      "name": "Đùi gà quay (1 miếng)",
+      "price": 67000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/7393e266725f18b28d3e445b0a8d96dd.png",
+      "id": 2
+    },
+    {
+      "name": "Phi-lê Gà Quay (1 Miếng)",
+      "price": 35000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/a5bfa35e5ad2d7d03611ea4443fbb3dc.png",
+      "id": 3
+    },
+    {
+      "name": "Gà rán (1 miếng)",
+      "price": 35000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/8fcc7be4dfd15601269b48f3e88bd38d.png",
+      "id": 4
+    },
+    {
+      "name": "Gà rán (2 miếng)",
+      "price": 68000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/7ee124ba814245247b501488fbc15cb9.png",
+      "id": 5
+    },
+    {
+      "name": "Gà rán (3 miếng)",
+      "price": 101000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/26a853b4918a1684135e039a09ebb9b1.png",
+      "id": 6
+    }
+  ],
+  "com": [
+    {
+      "name": "Cơm Gà Rán (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/2641433b2447b4a1fd90b6ad21032031.png",
+      "id": 7
+    },
+    {
+      "name": "Cơm Gà Bít-tết (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/7762ab6ba9186db06ec6bb47c6c20052.png",
+      "id": 8
+    },
+    {
+      "name": "Gà Bít-tết với Khoai tây chiên (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/f831caebaa58be1d7bcea004fa20c8b3.png",
+      "id": 9
+    },
+    {
+      "name": "Cơm Phi Lê Gà Quay (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/cf8890711782f50221f6ca9b8bda3a38.png",
+      "id": 10
+    },
+    {
+      "name": "Cơm Phi Lê Gà Giòn (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/8c3e2aa3b9bba4ae3ad86c8c93cf61c6.png",
+      "id": 11
+    },
+    {
+      "name": "Cơm Gà Xiên Que (1 Phần)",
+      "price": 42000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/97d99424cd2e469c70a05246c238ce9b.png",
+      "id": 12
+    }
+  ],
+  "burger": [
+    {
+      "name": "Burger Tôm (1 Phần)",
+      "price": 41000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/15046b9494d26e45510aa6fd088daec4.png",
+      "id": 13
+    },
+    {
+      "name": "Burger Gà Quay Flava (1 Phần)",
+      "price": 47000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/b9337c5592bdfdca82c7c5474bd27dac.png",
+      "id": 14
+    },
+    {
+      "name": "Burger Zinger (1 Phần)",
+      "price": 50000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/ec51b936369619cbbe77b8b4a7f4604e.png",
+      "id": 15
+    }
+  ],
+  "noodle": [
+    {
+      "name": "Mì Ý Xốt Cà Gà Viên (1 Phần)",
+      "price": 37000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/31fb71d2d122fd318c4a0d02557e52da.png",
+      "id": 16
+    },
+    {
+      "name": "Mì Ý Xốt Cà Gà Zinger (1 Phần)",
+      "price": 53000,
+      "categori": "food",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/743f129040d0cb4e2e8299bcd05b5236.png",
+      "id": 17
+    }
+  ],
+  "snacks": [
+    {
+      "name": "Hot Wings (3 Miếng)",
+      "price": 48000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/0fdbe56889d022973313a0ca3fa3bc53.png",
+      "id": 18
+    },
+    {
+      "name": "Hot Wings (5 Miếng)",
+      "price": 75000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/b383b84db23857de70ac5ee6199208ec.png",
+      "id": 19
+    },
+    {
+      "name": "Gà Popcorn (Vừa) (1 phần)",
+      "price": 36000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/2cbfd57c69e2ef38c0d32448e6c20c19.png",
+      "id": 20
+    },
+    {
+      "name": "Gà Popcorn (Lớn) (1 Phần)",
+      "price": 58000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/94a586581e0434ff7505aefd60526b70.png",
+      "id": 21
+    },
+    {
+      "name": "Phô mai viên (4 viên)",
+      "price": 30000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/e461936e9a87ca5d92486c3aa259b1f7.png",
+      "id": 22
+    },
+    {
+      "name": "Phô mai viên (6 viên)",
+      "price": 41000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/5dc365e1257ab1b1ed738c764157682c.png",
+      "id": 23
+    },
+    {
+      "name": "Cá Thanh (3 Thanh)",
+      "price": 40000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/d23294c03bce1d77665c02c50dc329f9.png",
+      "id": 24
+    },
+    {
+      "name": "Gà Xiên Que (2 Thanh)",
+      "price": 33000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/d23294c03bce1d77665c02c50dc329f9.png",
+      "id": 25
+    },
+    {
+      "name": "Khoai Tây Chiên (Vừa)",
+      "price": 17000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/f6730bdfe9fc2982cc7494115e71599d.png",
+      "id": 26
+    },
+    {
+      "name": "Khoai Tây Chiên (Lớn)",
+      "price": 28000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/4591699dcd6ad908cf4c6d0432cf58dc.png",
+      "id": 27
+    },
+    {
+      "name": "Khoai Tây Chiên (Đại)",
+      "price": 38000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/4591699dcd6ad908cf4c6d0432cf58dc.png",
+      "id": 28
+    },
+    {
+      "name": "Bắp cải trộn (Vừa)",
+      "price": 12000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/e6fbda15cb9ce40e8f861a36cbad1033.png",
+      "id": 29
+    },
+    {
+      "name": "Bắp cải trộn (Lớn)",
+      "price": 22000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/806b4b81f36703271229fa3c316d35e6.png",
+      "id": 30
+    },
+    {
+      "name": "Bắp Cải Trộn (Đại)",
+      "price": 31000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/d1c42a1566fe270eda9c2dda4764f7db.png",
+      "id": 31
+    },
+    {
+      "name": "Cơm trắng",
+      "price": 10000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/be88d03a8d38c4d420e08877256ee0be.jpg",
+      "id": 32
+    },
+    {
+      "name": "Súp rong biển (1 phần)",
+      "price": 14000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/6f0c074738973430bbf70a4f84ed09f7.jpg",
+      "id": 33
+    },
+    {
+      "name": "Xiên Gà Tenderods (2 Xiên)",
+      "price": 36000,
+      "categori": "snack",
+      "img": "https://kfcvietnam.com.vn/uploads/product/15c92d0b601f0693a665c25790406c63.png",
+      "id": 34
+    }
+  ],
+  "drink": [
+    {
+      "name": "Pepsi Vị Chanh Không Calo Lon",
+      "price": 17000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/591ed4e8145a94286e5838a5b6134ab1.png",
+      "id": 35
+    },
+    {
+      "name": "Pepsi Lon",
+      "price": 17000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/12b7f62d75cf6631e5766bedb7c972f2.png",
+      "id": 36
+    },
+    {
+      "name": "7Up Lon",
+      "price": 17000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/2fb03a79074878515b937ef28ba03003.png",
+      "id": 37
+    },
+    {
+      "name": "Hộp Milo",
+      "price": 20000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/20c2e225b7ee2bedad4a8e21f57c1e19.png",
+      "id": 38
+    },
+    {
+      "name": "Aquafina",
+      "price": 15000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/05c112bd36b87a879c1800fa9290d489.png",
+      "id": 39
+    },
+    {
+      "name": "Trà đào",
+      "price": 24000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/c9a526c8d0049b6743ea5fa3fc02ceb0.png",
+      "id": 40
+    },
+    {
+      "name": "Mirinda Cam Lon",
+      "price": 17000,
+      "categori": "drink",
+      "img": "https://kfcvietnam.com.vn/uploads/product/61070a36604ea4e6f38846921f03e192.png",
+      "id": 41
+    }
+  ],
+  "users": [
+    {
+      "name": "son9xx",
+      "fullName": "hoang ngoc Son",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "son123",
+      "fullName": "affafa",
+      "email": "fafafaf",
+      "phone": "wafwafafea",
+      "password": "son123",
+      "id": 2
+    }
+  ],
+  "cardDefault": [
+    {
+      "id": "2",
+      "name": "Đùi gà quay (1 miếng)",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/7393e266725f18b28d3e445b0a8d96dd.png",
+      "price": "67000",
+      "soluong": 8
+    },
+    {
+      "id": "3",
+      "name": "Phi-lê Gà Quay (1 Miếng)",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/a5bfa35e5ad2d7d03611ea4443fbb3dc.png",
+      "price": "35000",
+      "soluong": 3
+    },
+    {
+      "id": "17",
+      "name": "Mì Ý Xốt Cà Gà Zinger (1 Phần)",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/743f129040d0cb4e2e8299bcd05b5236.png",
+      "price": "53000",
+      "soluong": 1
+    }
+  ],
+  "card1": [
+    {
+      "id": "1",
+      "name": "Gà rán (6 miếng)",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/6a5f3dc03fe7c56ae754b451d4272987.png",
+      "price": "195000",
+      "soluong": 7
+    },
+    {
+      "id": "3",
+      "name": "Phi-lê Gà Quay (1 Miếng)",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/a5bfa35e5ad2d7d03611ea4443fbb3dc.png",
+      "price": "35000",
+      "soluong": 1
+    }
+  ],
+  "card2": [
+    {
+      "id": "2",
+      "name": "Đùi gà quay (1 miếng)",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/7393e266725f18b28d3e445b0a8d96dd.png",
+      "price": "67000",
+      "soluong": 100003
+    },
+    {
+      "id": "3",
+      "name": "Phi-lê Gà Quay (1 Miếng)",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/a5bfa35e5ad2d7d03611ea4443fbb3dc.png",
+      "price": "35000",
+      "soluong": 3
+    },
+    {
+      "id": "1",
+      "name": "Gà rán (6 miếng)",
+      "img": "https://kfcvietnam.com.vn/uploads/combo/6a5f3dc03fe7c56ae754b451d4272987.png",
+      "price": "195000",
+      "soluong": 2
+    }
+  ],
+  "card3": [],
+  "card4": [],
+  "card5": [],
+  "card6": [],
+  "card7": [],
+  "card8": [],
+  "card9": [],
+  "card10": [],
+  "tpHN": [
+    {
+      "name": "Đan Phượng",
+      "value": "danphuong"
+    },
+    {
+      "name": "Hoài Đức",
+      "value": "hoaiduc"
+    },
+    {
+      "name": "Mỹ Đức",
+      "value": "myduc"
+    },
+    {
+      "name": "Quốc Oai",
+      "value": "quocoai"
+    },
+    {
+      "name": "Hoàn Kiếm",
+      "value": "hoankiem"
+    }
+  ],
+  "tpHCM": [
+    {
+      "name": "Bình Tân",
+      "value": "binhtan"
+    },
+    {
+      "name": "Bình Thạnh",
+      "value": "binhthach"
+    },
+    {
+      "name": "Gò Vấp",
+      "value": "govap"
+    },
+    {
+      "name": "Phú Nhuận",
+      "value": "phunhuan"
+    },
+    {
+      "name": "Tân Bình",
+      "value": "tanbinh"
+    }
+  ]
+}

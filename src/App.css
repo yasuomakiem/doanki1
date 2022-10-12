@@ -1,0 +1,63 @@
+@import url(../node_modules/bootstrap/dist/css/bootstrap.min.css);
+
+.logo {
+    width: 45px;
+    height: 50px;
+}
+
+header {
+    background-color: #f8f8f8;
+}
+
+footer {
+    background-color: #f8f8f8;
+}
+
+.bg-son {
+    background-color: #f8f8f8;
+
+}
+
+.border-half {
+    border-right: 1px solid black;
+}
+
+.btn-add {
+    border: 1px solid red;
+    color: red;
+    background-color: white;
+}
+
+.name-product {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    /* number of lines to show */
+    -webkit-box-orient: vertical;
+}
+.btn-page{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: bisque;
+    border: none;
+}
+.btn-add{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+.btn-sl{
+    width: 70px;
+    height: 40px;
+    border: none;
+}
+.my-input{
+    border: none;
+    outline: none;
+}
+.line-border{
+    border-bottom: 1px solid black;
+}
+
